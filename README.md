@@ -10,10 +10,10 @@ MNIST Handwritten Digit Classification Dataset is a dataset of 60,000 small squa
 
 The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively.
 
-It is a widely used and deeply understood dataset and, for the most part, is “solved.” Top-performing models are deep learning convolutional neural networks that achieve a classification accuracy of above 99%, with an error rate
+It is a widely used and deeply understood dataset and, for the most part, is “solved.” Top-performing models are deep learning convolutional neural networks that achieve a classification accuracy of above 99%, with an error rate between 0.4 %and 0.2% on the hold out test dataset.
 
 ![image](https://github.com/rexlinrajan2004/mnist-classification/assets/119406566/f6159851-0275-4536-8478-228e44d5ff75)
-between 0.4 %and 0.2% on the hold out test dataset.
+
 
 
 ![image](https://github.com/rexlinrajan2004/mnist-classification/assets/119406566/2e8811d3-9020-42b4-9a3f-e0b99f9e14ce)
