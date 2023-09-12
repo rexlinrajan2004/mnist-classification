@@ -14,7 +14,7 @@ It is a widely used and deeply understood dataset and, for the most part, is “
 
 ![image](https://github.com/rexlinrajan2004/mnist-classification/assets/119406566/f6159851-0275-4536-8478-228e44d5ff75)
 
-
+## Neural Network Model
 
 ![image](https://github.com/rexlinrajan2004/mnist-classification/assets/119406566/2e8811d3-9020-42b4-9a3f-e0b99f9e14ce)
 
