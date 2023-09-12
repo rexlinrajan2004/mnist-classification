@@ -35,9 +35,9 @@ Compile and fit the model and then predict
 Write your own steps
 
 ## PROGRAM
-
-Program developed by : Charumathi.R
-Ref no : 212222240021
+```
+Program developed by : REXLIN R
+Ref no : 212222220034
 
 import numpy as np
 from tensorflow import keras
@@ -127,7 +127,7 @@ _prediction = np.argmax(
      axis=1)
 
 print(x_single_prediction)
-
+```
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
