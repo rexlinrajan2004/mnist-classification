@@ -35,7 +35,7 @@ Compile and fit the model and then predict
 Write your own steps
 
 ## PROGRAM
-```
+````
 Program developed by : REXLIN R
 Ref no : 212222220034
 
@@ -127,7 +127,7 @@ _prediction = np.argmax(
      axis=1)
 
 print(x_single_prediction)
-```
+````
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
